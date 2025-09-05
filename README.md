@@ -1,4 +1,6 @@
 🚨 Criminal Detection System – Real-Time Weapon Detection & Alerts
+
+
 📌 Project Overview
 This project is an AI-powered Criminal Detection System that uses YOLO (You Only Look Once) for real-time weapon detection through live video feed. The system is integrated with Flask to provide a web dashboard and uses Twilio API to send instant SMS alerts to authorities with location details and captured footage.
 
@@ -33,4 +35,5 @@ HTML, CSS, JavaScript – Interactive dashboard frontend
 🚀 Outcomes
 
 This system demonstrates how AI, computer vision, and communication APIs can work together to provide a real-time security solution. It can be extended to CCTV/IP cameras for public safety monitoring and crime prevention.
+
 
